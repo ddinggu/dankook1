@@ -4,5 +4,6 @@
 *.Rproj
 
 *.Rhistory
+*.csv
 
 node_modules
