@@ -1,0 +1,6 @@
+.Rproj.user
+.Rdata
+.Renviron
+*.Rproj
+
+node_modules
